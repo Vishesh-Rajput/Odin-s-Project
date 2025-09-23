@@ -125,6 +125,8 @@ font-size: 30px;
     background-color: #3882F6;
     color: #E5E7EB;
     padding: 40px;
+    margin: 10px 150px;
+    border-radius: 10px;
     
 }
 .contact>div{
